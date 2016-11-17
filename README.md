@@ -2,9 +2,12 @@
 
 My small improvements about yii2
 
-#Please, attention!
-### These improvements use for YII2 Beta!
+---
 
+##Please, attention!
+### These improvements use for YII2 Beta! @See https://github.com/kartik-v/yii2-widgets
+
+---
 
 common\components\Controller, common\components\UrlManager
 ------------------------
